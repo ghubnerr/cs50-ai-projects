@@ -1,0 +1,4 @@
+small/
+large/
+.idea/
+__pychache__/
